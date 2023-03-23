@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CNprep"]
+	path = CNprep
+	url = https://github.com/cran/CNprep
+	shallow = true
+	registered = true
+[submodule "CORE"]
+	path = CORE
+	url = https://github.com/cran/CORE
+	shallow = true
+	registered = true
+[submodule "ParDNAcopy"]
+	path = ParDNAcopy
+	url = https://github.com/cran/ParDNAcopy
+	shallow = true
+	registered = true
+[submodule "TBEST"]
+	path = TBEST
+	url = https://github.com/cran/TBEST
+	shallow = true
+	registered = true
